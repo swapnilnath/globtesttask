@@ -1,0 +1,16 @@
+.middle-box {
+  max-width: 400px;
+  z-index: 100;
+  margin: 0 auto;
+  padding-top: 0;
+}
+span.invalid-feedback{
+text-align : left;
+}
+.ibox-content{
+height: 320px !important;
+}
+img.logo-name {
+width: 80%;
+margin-bottom: 20px;
+}
